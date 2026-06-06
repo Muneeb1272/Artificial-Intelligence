@@ -7,7 +7,7 @@
 * 🎖️ **Muneeb Hamza** (Roll No: **13**) — AI Engineer & Frontend Developer
 * 🏛️ **University:** University of Layyah
 * 📘 **Course:** Artificial Intelligence (BS IT - Semester Project)
-* 🎓 **Project Evaluator:** Madam Nabiha Komal
+* 🎓 **Project Evaluator:**  Sir Faisal Hafeez
 
 ---
 
