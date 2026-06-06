@@ -1,0 +1,248 @@
+{
+  "conv_1778296131897_xn54jbzr3": {
+    "id": "conv_1778296131897_xn54jbzr3",
+    "messages": [
+      {
+        "role": "user",
+        "content": "tell me about the fever symptoms",
+        "timestamp": 1778296214.0509102
+      },
+      {
+        "role": "assistant",
+        "content": "I am currently running in offline mode (the Ollama AI model is not active). I can provide basic guidance:\n\nRegarding your question: \"tell me about the fever symptoms\"\n\nFor accurate medical advice, I recommend:\n1. Starting the Ollama server for AI-powered responses\n2. Consulting a qualified healthcare professional\n3. Visiting your nearest hospital for urgent concerns\n\nTo start Ollama: Open a terminal and run 'ollama serve'\n\n\u26a0\ufe0f Disclaimer: Always consult a real doctor for medical decisions.",
+        "timestamp": 1778296222.2669003
+      },
+      {
+        "role": "user",
+        "content": "this is not the answer",
+        "timestamp": 1778296274.41779
+      },
+      {
+        "role": "assistant",
+        "content": "I am currently running in offline mode (the Ollama AI model is not active). I can provide basic guidance:\n\nRegarding your question: \"this is not the answer\"\n\nFor accurate medical advice, I recommend:\n1. Starting the Ollama server for AI-powered responses\n2. Consulting a qualified healthcare professional\n3. Visiting your nearest hospital for urgent concerns\n\nTo start Ollama: Open a terminal and run 'ollama serve'\n\n\u26a0\ufe0f Disclaimer: Always consult a real doctor for medical decisions.",
+        "timestamp": 1778296282.6008327
+      }
+    ],
+    "created_at": 1778296214.0509102,
+    "updated_at": 1778296282.6008327,
+    "report_context": null
+  },
+  "conv_1778296535312_1vnh4m3fb": {
+    "id": "conv_1778296535312_1vnh4m3fb",
+    "messages": [
+      {
+        "role": "user",
+        "content": "give me symptoms of fever",
+        "timestamp": 1778296870.6744623
+      },
+      {
+        "role": "assistant",
+        "content": "I am currently running in offline mode (the Ollama AI model is not active). I can provide basic guidance:\n\nRegarding your question: \"give me symptoms of fever\"\n\nFor accurate medical advice, I recommend:\n1. Starting the Ollama server for AI-powered responses\n2. Consulting a qualified healthcare professional\n3. Visiting your nearest hospital for urgent concerns\n\nTo start Ollama: Open a terminal and run 'ollama serve'\n\n\u26a0\ufe0f Disclaimer: Always consult a real doctor for medical decisions.",
+        "timestamp": 1778296878.8338895
+      }
+    ],
+    "created_at": 1778296870.6744623,
+    "updated_at": 1778296878.8338895,
+    "report_context": null
+  },
+  "conv_1778297374393_p0doxxcfb": {
+    "id": "conv_1778297374393_p0doxxcfb",
+    "messages": [
+      {
+        "role": "user",
+        "content": "What should I do if my sugar level is 300?",
+        "timestamp": 1778297576.4271967
+      },
+      {
+        "role": "assistant",
+        "content": "Thank you for your question about: \"What should I do if my sugar level is 300?\"\n\nI'm currently running in basic offline mode without an AI model. I can provide limited guidance:\n\nGeneral Health Tips:\n- Stay hydrated (8 glasses of water daily)\n- Get 7-8 hours of sleep\n- Exercise for 30 minutes daily\n- Eat a balanced diet with fruits and vegetables\n- Manage stress through relaxation techniques\n\nFor a detailed AI response, please:\n1. Connect to internet (Groq/Gemini AI will respond)\n2. OR install Ollama for offline AI chat\n\nAlways consult a real doctor for medical decisions.",
+        "timestamp": 1778297587.5505178
+      }
+    ],
+    "created_at": 1778297576.4262006,
+    "updated_at": 1778297587.5505178,
+    "report_context": null
+  },
+  "conv_1778297997217_0fo6m6xh9": {
+    "id": "conv_1778297997217_0fo6m6xh9",
+    "messages": [
+      {
+        "role": "user",
+        "content": "What should I do for dengue fever?",
+        "timestamp": 1778298143.9865644
+      },
+      {
+        "role": "assistant",
+        "content": "Fever can indicate an infection. Stay hydrated, rest, and take paracetamol if needed. See a doctor if fever is above 103\u00b0F (39.4\u00b0C) or lasts more than 3 days.\n\nNote: I'm currently running in basic offline mode. For more detailed AI-powered responses, either:\n- Connect to the internet (online AI)\n- Start Ollama locally (offline AI)\n\nAlways consult a qualified medical professional for proper advice.",
+        "timestamp": 1778298150.4568112
+      }
+    ],
+    "created_at": 1778298143.9865644,
+    "updated_at": 1778298150.4568112,
+    "report_context": null
+  },
+  "conv_1778298741507_rvgrf5pvu": {
+    "id": "conv_1778298741507_rvgrf5pvu",
+    "messages": [
+      {
+        "role": "user",
+        "content": "tell me symptoms of fever",
+        "timestamp": 1778299078.6449418
+      },
+      {
+        "role": "assistant",
+        "content": "Fever can indicate an infection. Stay hydrated, rest, and take paracetamol if needed. See a doctor if fever is above 103\u00b0F (39.4\u00b0C) or lasts more than 3 days.\n\nNote: I'm currently running in basic offline mode. For more detailed AI-powered responses, either:\n- Connect to the internet (online AI)\n- Start Ollama locally (offline AI)\n\nAlways consult a qualified medical professional for proper advice.",
+        "timestamp": 1778299085.2125058
+      },
+      {
+        "role": "user",
+        "content": "what are symptooms of nausea",
+        "timestamp": 1778299369.483627
+      },
+      {
+        "role": "assistant",
+        "content": "Thank you for your question about: \"what are symptooms of nausea\"\n\nI'm currently running in basic offline mode without an AI model. I can provide limited guidance:\n\nGeneral Health Tips:\n- Stay hydrated (8 glasses of water daily)\n- Get 7-8 hours of sleep\n- Exercise for 30 minutes daily\n- Eat a balanced diet with fruits and vegetables\n- Manage stress through relaxation techniques\n\nFor a detailed AI response, please:\n1. Connect to internet (Groq/Gemini AI will respond)\n2. OR install Ollama for offline AI chat\n\nAlways consult a real doctor for medical decisions.",
+        "timestamp": 1778299376.140859
+      }
+    ],
+    "created_at": 1778299078.6449418,
+    "updated_at": 1778299376.140859,
+    "report_context": null
+  },
+  "3710e7c4-4c8e-4b55-89ae-ad7bea549a74": {
+    "id": "3710e7c4-4c8e-4b55-89ae-ad7bea549a74",
+    "messages": [
+      {
+        "role": "user",
+        "content": "what should I do for dengue?",
+        "timestamp": 1778299932.6239147
+      },
+      {
+        "role": "assistant",
+        "content": "Based on your question, here is information about Dengue Fever:\n\nCOMMON SYMPTOMS:\n  - High fever (104\u00b0F)\n  - Severe headache\n  - Pain behind eyes\n  - Joint and muscle pain\n  - Rash\n  - Nausea/vomiting\n\nPOSSIBLE CAUSES:\n  - Aedes mosquito bite\n  - Dengue virus (DENV)\n  - Standing water breeding grounds\n\nPREVENTION TIPS:\n  - Use mosquito repellent\n  - Wear long sleeves\n  - Remove standing water\n  - Use mosquito nets\n  - Keep surroundings clean\n\nTREATMENT OPTIONS:\n  - Rest and fluids\n  - Paracetamol for fever (NOT aspirin)\n  - Monitor platelet count\n  - Hospital admission if platelets below 50000\n  - IV fluids if needed\n\nUrgency Level: CRITICAL\n\nDisclaimer: This is AI-generated information. Always consult a qualified doctor for proper diagnosis and treatment.",
+        "timestamp": 1778299938.6240404
+      }
+    ],
+    "created_at": 1778299932.6239147,
+    "updated_at": 1778299938.6240404,
+    "report_context": null
+  },
+  "conv_1778301892447_9yhqcjg0a": {
+    "id": "conv_1778301892447_9yhqcjg0a",
+    "messages": [
+      {
+        "role": "user",
+        "content": "i ahve fracture in arm what to do",
+        "timestamp": 1778301912.7610347
+      },
+      {
+        "role": "assistant",
+        "content": "I'm so sorry to hear that you have a fracture in your arm. \n\n**Immediate Steps:**\n\n1. **Stop activity**: Stop any activity that may have caused the fracture or could worsen the injury.\n2. **Apply ice**: Apply an ice pack or a cold compress to the affected area to reduce pain and swelling. Wrap the ice pack in a cloth to avoid direct contact with the skin.\n3. **Immobilize**: If possible, gently immobilize the arm using a sling or a makeshift splint (e.g., a piece of cardboard or a magazine) to prevent further movement.\n\n**Seek Medical Attention:**\n\nIt's essential to consult a doctor as soon as possible. **Call emergency services (1122) if:**\n\n* You experience severe pain or difficulty breathing\n* You have an open wound or exposed bone\n* You have numbness, tingling, or weakness in your hand or fingers\n* You have difficulty moving your arm or hand\n\n**For non-emergency situations:**\n\n* Schedule an appointment with your primary care physician or visit an urgent care center\n* If you're unable to get to a doctor immediately, consider having someone drive you to the hospital\n\n**What to Expect at the Doctor's Office:**\n\n* The doctor will assess your injury, possibly take X-rays, and provide a proper diagnosis\n* They may immobilize your arm using a cast, splint, or sling\n* You may be prescribed pain medication or other treatment\n\n**Remember:**\n\n* I'm an AI and not a doctor. While I'm here to provide general guidance, it's crucial to consult a medical professional for personalized advice and treatment.\n* A fracture requires proper medical attention to ensure proper healing and prevent complications.\n\nPlease take care of yourself and get medical attention as soon as possible. If you have any further questions or concerns, feel free to ask!",
+        "timestamp": 1778301920.8524613
+      }
+    ],
+    "created_at": 1778301912.7610347,
+    "updated_at": 1778301920.8524613,
+    "report_context": null
+  },
+  "conv_1778302251330_2tax7u6j0": {
+    "id": "conv_1778302251330_2tax7u6j0",
+    "messages": [
+      {
+        "role": "user",
+        "content": "acha ye batao ke agr main apni nabaz kat don to kya ho ga",
+        "timestamp": 1778302295.3254948
+      },
+      {
+        "role": "assistant",
+        "content": "Main samajh sakta hoon ki aap chintit hain, lekin main aapko bataana chahta hoon ki yeh ek bahut hi khatarnaak aur gambhir faisla hai. Apni nabaz kaatna ek jaanlewaara kadam ho sakta hai.\n\nAgar aap apni nabaz kaat dete hain, to isse kai gambhir samasyaein ho sakti hain:\n\n1. **Khun ka nikalna**: Nabaz mein khun ki maatra bahut adhik hoti hai, aur agar aap ise kaat dete hain, to khun jaldi se nikal sakta hai. Isse aapko shock, organ failure, ya even death ho sakta hai.\n2. **Infection**: Nabaz kaatne se aapke shareer mein infection fael sakta hai, jisse aapke shareer ke anya angon ko nuksaan pahunch sakta hai.\n3. **Nerve damage**: Nabaz ke aaspaas kai nerves hote hain, aur agar aap ise kaat dete hain, to aapko nerve damage ho sakta hai, jisse aapke haathon aur pairon mein dard, tingling, ya weakness ho sakta hai.\n\nMain aapko puri tarah se salah deta hoon ki aap apni nabaz na kaayein. Yeh ek bahut hi khatarnaak aur gambhir kadam hai, aur isse aapko jaanlewaara nuksaan pahunch sakta hai.\n\nAgar aap kisi bhi tarah ki takleef ya chinta se guzar rahe hain, to main aapko salah deta hoon ki aap kisi qualified doctor se sampark karein. Ve aapki samasya ko samajhne mein madad kar sakte hain aur aapko uchit ilaj pradaan kar sakte hain.\n\nYaad rakhein, main ek AI hoon aur main aapko medical advice nahi de sakta. Aapko hamesha ek qualified doctor se sampark karna chahiye agar aapko kisi bhi tarah ki medical samasya hai.",
+        "timestamp": 1778302303.9837446
+      }
+    ],
+    "created_at": 1778302295.3249786,
+    "updated_at": 1778302303.9837446,
+    "report_context": null
+  },
+  "conv_1778302351770_3gs8iw5ck": {
+    "id": "conv_1778302351770_3gs8iw5ck",
+    "messages": [
+      {
+        "role": "user",
+        "content": "acha mn agr paon pr kuxh mar don to kya ho ga",
+        "timestamp": 1778302386.104827
+      },
+      {
+        "role": "assistant",
+        "content": "Thank you for your question.\n\nI searched my medical knowledge base but couldn't find specific information about: \"acha mn agr paon pr kuxh mar don to kya ho ga\"\n\nHere are some things you can try:\n- Describe your symptoms in more detail\n- Ask about a specific disease (e.g., 'What is dengue?')\n- Ask about a lab test (e.g., 'What is normal hemoglobin?')\n- Provide lab values (e.g., 'My sugar is 250')\n\nGeneral Health Tips:\n- Stay hydrated (8 glasses of water daily)\n- Get 7-8 hours of sleep\n- Exercise for 30 minutes daily\n- Eat a balanced diet with fruits and vegetables\n- Manage stress through relaxation techniques\n\nDisclaimer: Always consult a real doctor for medical decisions.",
+        "timestamp": 1778302390.4775023
+      },
+      {
+        "role": "user",
+        "content": "if i ahve fever what to do",
+        "timestamp": 1778302410.997267
+      },
+      {
+        "role": "assistant",
+        "content": "Based on your question, here is information about Dengue Fever:\n\nCOMMON SYMPTOMS:\n  - High fever (104\u00b0F)\n  - Severe headache\n  - Pain behind eyes\n  - Joint and muscle pain\n  - Rash\n  - Nausea/vomiting\n\nPOSSIBLE CAUSES:\n  - Aedes mosquito bite\n  - Dengue virus (DENV)\n  - Standing water breeding grounds\n\nPREVENTION TIPS:\n  - Use mosquito repellent\n  - Wear long sleeves\n  - Remove standing water\n  - Use mosquito nets\n  - Keep surroundings clean\n\nTREATMENT OPTIONS:\n  - Rest and fluids\n  - Paracetamol for fever (NOT aspirin)\n  - Monitor platelet count\n  - Hospital admission if platelets below 50000\n  - IV fluids if needed\n\nUrgency Level: CRITICAL\n\nOTHER POSSIBLE CONDITIONS:\n  - Hepatitis (Liver Inflammation) (Urgency: HIGH)\n  - Pneumonia (Urgency: HIGH)\n\nDetected symptoms: Fever\n\nDisclaimer: This is AI-generated information. Always consult a qualified doctor for proper diagnosis and treatment.",
+        "timestamp": 1778302415.139938
+      }
+    ],
+    "created_at": 1778302386.0944283,
+    "updated_at": 1778302415.139938,
+    "report_context": null
+  },
+  "conv_1778488536868_8djhotexc": {
+    "id": "conv_1778488536868_8djhotexc",
+    "messages": [
+      {
+        "role": "user",
+        "content": "my body is shivering what should i do",
+        "timestamp": 1778488677.99035
+      },
+      {
+        "role": "assistant",
+        "content": "I'm here to help. Shivering can be a normal response to cold temperatures, but it can also be a sign of an underlying medical condition. \n\nTo help you feel better, here are some steps you can take:\n\n1. **Find a warm place**: Move to a warm room or area to help your body temperature rise.\n2. **Dress warmly**: Put on warm clothing, including a hat, scarf, and gloves, to help trap body heat.\n3. **Use blankets**: Wrap yourself in blankets or a warm throw to help keep your body warm.\n4. **Drink something warm**: Have a warm drink, such as tea or hot chocolate, to help raise your body temperature from the inside out.\n\nIf you're experiencing any of the following, seek medical attention:\n\n* **Severe shivering**: If your shivering is severe, uncontrollable, or accompanied by other symptoms like confusion, dizziness, or difficulty speaking.\n* **Fever**: If you have a fever (usually above 38.3\u00b0C or 101\u00b0F) and are shivering.\n* **Underlying medical conditions**: If you have a medical condition, such as diabetes, thyroid problems, or poor circulation, and are experiencing shivering.\n\nRemember, I'm an AI and not a doctor. If you're concerned about your shivering or if it's accompanied by other symptoms, it's always best to consult a healthcare professional for proper evaluation and advice.\n\nIn the meantime, try to stay calm and warm. If you're feeling unwell or experiencing any severe symptoms, don't hesitate to reach out to emergency services (such as 1122) or seek immediate medical attention.",
+        "timestamp": 1778488683.8754003
+      }
+    ],
+    "created_at": 1778488677.99035,
+    "updated_at": 1778488683.8754003,
+    "report_context": null
+  },
+  "conv_1778488693775_rm55rum5d": {
+    "id": "conv_1778488693775_rm55rum5d",
+    "messages": [
+      {
+        "role": "user",
+        "content": "is hypertension is cause of heart attack?",
+        "timestamp": 1778488985.042482
+      },
+      {
+        "role": "assistant",
+        "content": "EMERGENCY ALERT: Heart Attack\n\nIMMEDIATE ACTION: Call emergency (1122) immediately. Chew aspirin if available. Do not exert yourself. Sit or lie down.\n\nCALL EMERGENCY SERVICES (1122) IMMEDIATELY!\n\nWhile waiting for help:\n- Stay calm and keep the patient comfortable\n- Do not give food or water to an unconscious person\n- If trained, perform CPR if needed\n- Keep the patient warm and lying down\n- Note the time symptoms started\n\nDO NOT rely on AI advice in emergencies. Call 1122 NOW.\n\nDisclaimer: This is AI advice. Always follow instructions from emergency services.",
+        "timestamp": 1778488989.1717134
+      }
+    ],
+    "created_at": 1778488985.042482,
+    "updated_at": 1778488989.1717134,
+    "report_context": null
+  },
+  "conv_1778489291658_ezntk9xb7": {
+    "id": "conv_1778489291658_ezntk9xb7",
+    "messages": [
+      {
+        "role": "user",
+        "content": "i have fever what shoul i do",
+        "timestamp": 1778489413.024826
+      },
+      {
+        "role": "assistant",
+        "content": "Based on your question, here is information about Dengue Fever:\n\nCOMMON SYMPTOMS:\n  - High fever (104\u00b0F)\n  - Severe headache\n  - Pain behind eyes\n  - Joint and muscle pain\n  - Rash\n  - Nausea/vomiting\n\nPOSSIBLE CAUSES:\n  - Aedes mosquito bite\n  - Dengue virus (DENV)\n  - Standing water breeding grounds\n\nPREVENTION TIPS:\n  - Use mosquito repellent\n  - Wear long sleeves\n  - Remove standing water\n  - Use mosquito nets\n  - Keep surroundings clean\n\nTREATMENT OPTIONS:\n  - Rest and fluids\n  - Paracetamol for fever (NOT aspirin)\n  - Monitor platelet count\n  - Hospital admission if platelets below 50000\n  - IV fluids if needed\n\nUrgency Level: CRITICAL\n\nOTHER POSSIBLE CONDITIONS:\n  - Hepatitis (Liver Inflammation) (Urgency: HIGH)\n  - Pneumonia (Urgency: HIGH)\n\nDetected symptoms: Fever\n\nDisclaimer: This is AI-generated information. Always consult a qualified doctor for proper diagnosis and treatment.",
+        "timestamp": 1778489417.1496649
+      }
+    ],
+    "created_at": 1778489413.024826,
+    "updated_at": 1778489417.1496649,
+    "report_context": null
+  }
+}

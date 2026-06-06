@@ -1,0 +1,85 @@
+{
+  "episodes": [
+    {
+      "episode": 0,
+      "state": "skin_condition",
+      "action": "ollama_detailed",
+      "reward": -1.0,
+      "new_q_value": -0.1,
+      "epsilon": 0.995,
+      "timestamp": 1778296469.718546
+    },
+    {
+      "episode": 1,
+      "state": "blood_diabetes",
+      "action": "knowledge_base",
+      "reward": 1.0,
+      "new_q_value": 0.1,
+      "epsilon": 0.995,
+      "timestamp": 1778302078.2077742
+    },
+    {
+      "episode": 2,
+      "state": "blood_diabetes",
+      "action": "knowledge_base",
+      "reward": 1.0,
+      "new_q_value": 0.19,
+      "epsilon": 0.99,
+      "timestamp": 1778302078.7987213
+    },
+    {
+      "episode": 3,
+      "state": "blood_diabetes",
+      "action": "knowledge_base",
+      "reward": 1.0,
+      "new_q_value": 0.271,
+      "epsilon": 0.9851,
+      "timestamp": 1778302079.1844985
+    },
+    {
+      "episode": 4,
+      "state": "blood_diabetes",
+      "action": "knowledge_base",
+      "reward": 1.0,
+      "new_q_value": 0.3439,
+      "epsilon": 0.9801,
+      "timestamp": 1778302079.2273383
+    },
+    {
+      "episode": 5,
+      "state": "xray_bone",
+      "action": "combined_approach",
+      "reward": 1.0,
+      "new_q_value": 0.1,
+      "epsilon": 0.9752,
+      "timestamp": 1778488650.6049442
+    },
+    {
+      "episode": 6,
+      "state": "xray_chest",
+      "action": "keyword_basic",
+      "reward": 1.0,
+      "new_q_value": 0.1,
+      "epsilon": 0.9704,
+      "timestamp": 1778490035.1285057
+    }
+  ],
+  "rewards": [
+    -1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0
+  ],
+  "accuracy_over_time": [
+    0.0,
+    50.0,
+    66.67,
+    75.0,
+    80.0,
+    83.33,
+    85.71
+  ]
+}
