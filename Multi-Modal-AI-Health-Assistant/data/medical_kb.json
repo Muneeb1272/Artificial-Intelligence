@@ -1,0 +1,216 @@
+{
+  "diseases": [
+    {
+      "id": "diabetes_type2",
+      "name": "Type 2 Diabetes Mellitus",
+      "category": "endocrine",
+      "keywords": ["diabetes", "sugar", "glucose", "hba1c", "insulin", "diabetic", "blood sugar high"],
+      "symptoms": ["Excessive thirst", "Frequent urination", "Unexplained weight loss", "Fatigue", "Blurred vision", "Slow wound healing", "Numbness in hands/feet"],
+      "causes": ["Obesity", "Sedentary lifestyle", "Genetics/family history", "Poor diet high in sugar", "Age over 45", "PCOS"],
+      "prevention": ["Exercise 30 minutes daily", "Maintain healthy weight", "Eat whole grains and vegetables", "Limit sugar and refined carbs", "Regular blood sugar monitoring", "Stay hydrated"],
+      "treatment": ["Metformin medication", "Insulin therapy if needed", "Blood sugar monitoring", "Dietary control", "Regular exercise", "Weight management"],
+      "urgency": "MEDIUM",
+      "related_tests": ["fasting_glucose", "hba1c"]
+    },
+    {
+      "id": "hypertension",
+      "name": "Hypertension (High Blood Pressure)",
+      "category": "cardiac",
+      "keywords": ["blood pressure", "hypertension", "bp high", "systolic", "diastolic", "high bp"],
+      "symptoms": ["Usually no symptoms (silent killer)", "Severe headaches", "Chest pain", "Dizziness", "Shortness of breath", "Nosebleeds", "Vision problems"],
+      "causes": ["High salt diet", "Obesity", "Stress", "Smoking", "Genetics", "Lack of exercise", "Excessive alcohol"],
+      "prevention": ["Reduce salt intake", "Exercise regularly", "Maintain healthy weight", "Manage stress", "Quit smoking", "Limit alcohol", "DASH diet"],
+      "treatment": ["ACE inhibitors", "Beta-blockers", "Lifestyle modifications", "Low-sodium diet", "Stress management", "Regular BP monitoring"],
+      "urgency": "HIGH",
+      "related_tests": ["cholesterol_total", "ldl", "creatinine"]
+    },
+    {
+      "id": "anemia",
+      "name": "Anemia (Iron Deficiency)",
+      "category": "hematological",
+      "keywords": ["anemia", "low hemoglobin", "low hb", "iron deficiency", "pale", "weakness", "low rbc"],
+      "symptoms": ["Fatigue and weakness", "Pale skin", "Shortness of breath", "Dizziness", "Cold hands and feet", "Brittle nails", "Fast heartbeat"],
+      "causes": ["Iron deficiency in diet", "Blood loss (menstruation)", "Chronic diseases", "Pregnancy", "Poor iron absorption", "Vitamin B12 deficiency"],
+      "prevention": ["Eat iron-rich foods (spinach, meat, lentils)", "Take Vitamin C with meals", "Cook in iron pots", "Iron supplements if prescribed", "Regular blood tests"],
+      "treatment": ["Iron supplements (ferrous sulfate)", "Vitamin B12 injections", "Diet rich in iron", "Treat underlying cause", "Blood transfusion if severe"],
+      "urgency": "MEDIUM",
+      "related_tests": ["hemoglobin", "rbc", "iron"]
+    },
+    {
+      "id": "dengue",
+      "name": "Dengue Fever",
+      "category": "infectious",
+      "keywords": ["dengue", "low platelets", "platelet count low", "mosquito", "thrombocytopenia", "dengue fever"],
+      "symptoms": ["High fever (104°F)", "Severe headache", "Pain behind eyes", "Joint and muscle pain", "Rash", "Nausea/vomiting", "Low platelet count"],
+      "causes": ["Aedes mosquito bite", "Dengue virus (DENV)", "Standing water breeding grounds"],
+      "prevention": ["Use mosquito repellent", "Wear long sleeves", "Remove standing water", "Use mosquito nets", "Keep surroundings clean", "Fogging in area"],
+      "treatment": ["Rest and fluids", "Paracetamol for fever (NOT aspirin)", "Monitor platelet count", "Hospital admission if platelets below 50000", "IV fluids if needed"],
+      "urgency": "CRITICAL",
+      "related_tests": ["platelets", "wbc"]
+    },
+    {
+      "id": "hypothyroidism",
+      "name": "Hypothyroidism (Underactive Thyroid)",
+      "category": "endocrine",
+      "keywords": ["thyroid", "tsh high", "hypothyroid", "thyroid low", "t3 low", "t4 low", "hashimoto"],
+      "symptoms": ["Weight gain", "Fatigue", "Cold sensitivity", "Dry skin", "Hair loss", "Depression", "Constipation", "Muscle weakness"],
+      "causes": ["Hashimoto disease (autoimmune)", "Iodine deficiency", "Thyroid surgery", "Radiation therapy", "Certain medications"],
+      "prevention": ["Adequate iodine intake (iodized salt)", "Regular thyroid screening", "Manage stress", "Avoid excess soy products"],
+      "treatment": ["Levothyroxine (daily medication)", "Regular TSH monitoring", "Balanced diet", "Exercise", "Lifelong medication usually needed"],
+      "urgency": "MEDIUM",
+      "related_tests": ["tsh"]
+    },
+    {
+      "id": "hepatitis",
+      "name": "Hepatitis (Liver Inflammation)",
+      "category": "hepatic",
+      "keywords": ["hepatitis", "liver", "alt high", "ast high", "bilirubin high", "jaundice", "liver damage", "fatty liver"],
+      "symptoms": ["Yellowing of skin/eyes (jaundice)", "Dark urine", "Fatigue", "Abdominal pain", "Loss of appetite", "Nausea", "Fever"],
+      "causes": ["Hepatitis A/B/C virus", "Excessive alcohol", "Fatty liver disease", "Drug toxicity", "Autoimmune disease"],
+      "prevention": ["Hepatitis vaccination (A & B)", "Practice safe hygiene", "Avoid excessive alcohol", "Use clean needles", "Maintain healthy weight", "Avoid sharing razors"],
+      "treatment": ["Antiviral medications", "Rest", "Avoid alcohol completely", "Liver-friendly diet", "Regular liver function tests", "Liver transplant in severe cases"],
+      "urgency": "HIGH",
+      "related_tests": ["alt", "ast", "bilirubin_total"]
+    },
+    {
+      "id": "kidney_disease",
+      "name": "Chronic Kidney Disease (CKD)",
+      "category": "renal",
+      "keywords": ["kidney", "creatinine high", "bun high", "renal", "kidney failure", "gfr low", "kidney disease"],
+      "symptoms": ["Swelling in legs/ankles", "Fatigue", "Decreased urination", "Shortness of breath", "Nausea", "Confusion", "High blood pressure"],
+      "causes": ["Diabetes", "High blood pressure", "Kidney infections", "Polycystic kidney disease", "Prolonged NSAID use", "Autoimmune diseases"],
+      "prevention": ["Control blood sugar", "Manage blood pressure", "Stay hydrated", "Avoid excessive NSAIDs", "Low-salt diet", "Regular kidney function tests"],
+      "treatment": ["Blood pressure control", "Diabetes management", "Low-protein diet", "Dialysis if severe", "Kidney transplant", "Avoid nephrotoxic drugs"],
+      "urgency": "HIGH",
+      "related_tests": ["creatinine", "bun", "uric_acid"]
+    },
+    {
+      "id": "gout",
+      "name": "Gout (Uric Acid Arthritis)",
+      "category": "musculoskeletal",
+      "keywords": ["gout", "uric acid high", "joint pain", "big toe pain", "uric acid", "gouty arthritis"],
+      "symptoms": ["Sudden severe joint pain (especially big toe)", "Swelling and redness", "Warmth in affected joint", "Limited range of motion", "Pain at night"],
+      "causes": ["High uric acid levels", "Red meat and seafood", "Alcohol (especially beer)", "Obesity", "Kidney problems", "Genetics"],
+      "prevention": ["Limit red meat and seafood", "Avoid alcohol/beer", "Drink plenty of water", "Maintain healthy weight", "Exercise regularly", "Limit sugary drinks"],
+      "treatment": ["NSAIDs for pain", "Colchicine", "Allopurinol to lower uric acid", "Ice the joint", "Rest affected joint", "Cherry extract may help"],
+      "urgency": "MEDIUM",
+      "related_tests": ["uric_acid", "creatinine"]
+    },
+    {
+      "id": "coronary_artery_disease",
+      "name": "Coronary Artery Disease (Heart Disease)",
+      "category": "cardiac",
+      "keywords": ["heart disease", "chest pain", "heart attack", "angina", "coronary", "cholesterol high", "ldl high", "cardiac"],
+      "symptoms": ["Chest pain/pressure (angina)", "Shortness of breath", "Pain in arms/jaw/neck", "Fatigue", "Dizziness", "Irregular heartbeat", "Sweating"],
+      "causes": ["High cholesterol", "Smoking", "High blood pressure", "Diabetes", "Obesity", "Sedentary lifestyle", "Family history"],
+      "prevention": ["Heart-healthy diet", "Regular exercise", "Quit smoking", "Control cholesterol", "Manage stress", "Maintain healthy weight", "Regular heart check-ups"],
+      "treatment": ["Statins for cholesterol", "Aspirin therapy", "Blood pressure medication", "Lifestyle changes", "Angioplasty/stenting", "Bypass surgery if severe"],
+      "urgency": "CRITICAL",
+      "related_tests": ["cholesterol_total", "ldl", "hdl", "triglycerides"]
+    },
+    {
+      "id": "pneumonia",
+      "name": "Pneumonia",
+      "category": "respiratory",
+      "keywords": ["pneumonia", "lung infection", "chest infection", "cough", "difficulty breathing", "chest xray opacity", "lung opacity", "mucus", "lungs", "phlegm"],
+      "symptoms": ["Cough with phlegm or mucus", "Fever and chills", "Difficulty breathing", "Chest pain when breathing", "Fatigue", "Confusion (in elderly)", "Lungs filled with air or fluid"],
+      "causes": ["Bacterial infection", "Viral infection", "Fungal infection", "Aspiration", "Weak immune system", "Smoking"],
+      "prevention": ["Pneumonia vaccine", "Flu vaccine yearly", "Hand washing", "Quit smoking", "Good nutrition", "Adequate rest"],
+      "treatment": ["Antibiotics (if bacterial)", "Rest and fluids", "Fever reducers", "Cough medicine", "Oxygen therapy if severe", "Hospital admission if needed"],
+      "urgency": "HIGH",
+      "related_tests": ["wbc", "esr"]
+    },
+    {
+      "id": "tuberculosis",
+      "name": "Tuberculosis (TB)",
+      "category": "respiratory",
+      "keywords": ["tb", "tuberculosis", "cough blood", "night sweats", "chest xray", "lung cavity"],
+      "symptoms": ["Persistent cough (3+ weeks)", "Coughing blood", "Night sweats", "Weight loss", "Fever", "Fatigue", "Chest pain"],
+      "causes": ["Mycobacterium tuberculosis bacteria", "Airborne transmission", "Close contact with infected person", "Weak immune system"],
+      "prevention": ["BCG vaccination", "Avoid close contact with TB patients", "Good ventilation", "Wear mask around infected", "Complete treatment if exposed"],
+      "treatment": ["6-9 months antibiotics (DOTS program)", "Isoniazid + Rifampin", "Regular follow-up", "Complete full course", "Isolation during infectious phase"],
+      "urgency": "HIGH",
+      "related_tests": ["esr", "wbc"]
+    },
+    {
+      "id": "vitamin_d_deficiency",
+      "name": "Vitamin D Deficiency",
+      "category": "nutritional",
+      "keywords": ["vitamin d low", "vitamin d deficiency", "bone pain", "rickets", "osteoporosis", "weak bones"],
+      "symptoms": ["Bone pain", "Muscle weakness", "Fatigue", "Depression", "Frequent infections", "Hair loss", "Slow wound healing"],
+      "causes": ["Lack of sunlight", "Dark skin (less vitamin D production)", "Indoor lifestyle", "Poor diet", "Kidney/liver disease", "Malabsorption"],
+      "prevention": ["15-20 minutes daily sunlight", "Vitamin D-rich foods (fish, eggs, milk)", "Vitamin D supplements", "Outdoor activities"],
+      "treatment": ["Vitamin D3 supplements (1000-5000 IU daily)", "Sunlight exposure", "Calcium supplementation", "Fortified foods", "Regular monitoring"],
+      "urgency": "LOW",
+      "related_tests": ["vitamin_d"]
+    },
+    {
+      "id": "urinary_tract_infection",
+      "name": "Urinary Tract Infection (UTI)",
+      "category": "renal",
+      "keywords": ["uti", "urinary infection", "burning urination", "urine infection", "frequent urination pain"],
+      "symptoms": ["Burning sensation during urination", "Frequent urge to urinate", "Cloudy or bloody urine", "Pelvic pain", "Strong-smelling urine", "Fever if kidney involved"],
+      "causes": ["E. coli bacteria", "Poor hygiene", "Dehydration", "Kidney stones", "Catheter use", "Weak immune system"],
+      "prevention": ["Drink plenty of water", "Urinate after intercourse", "Wipe front to back", "Avoid holding urine", "Cranberry juice may help", "Good personal hygiene"],
+      "treatment": ["Antibiotics (Trimethoprim, Nitrofurantoin)", "Increased fluid intake", "Pain relievers", "Complete antibiotic course", "Follow-up urine test"],
+      "urgency": "MEDIUM",
+      "related_tests": ["wbc"]
+    },
+    {
+      "id": "asthma",
+      "name": "Asthma",
+      "category": "respiratory",
+      "keywords": ["asthma", "wheezing", "shortness of breath", "chest tightness", "breathing difficulty", "inhaler"],
+      "symptoms": ["Wheezing", "Shortness of breath", "Chest tightness", "Coughing (especially at night)", "Difficulty exercising", "Breathing difficulty"],
+      "causes": ["Allergies", "Air pollution", "Respiratory infections", "Exercise", "Cold air", "Stress", "Genetics"],
+      "prevention": ["Identify and avoid triggers", "Use air purifiers", "Regular medication as prescribed", "Flu vaccine", "Keep rescue inhaler accessible", "Monitor peak flow"],
+      "treatment": ["Rescue inhaler (albuterol)", "Controller medications (corticosteroids)", "Avoid triggers", "Allergy management", "Breathing exercises", "Emergency plan"],
+      "urgency": "MEDIUM",
+      "related_tests": ["wbc", "esr"]
+    },
+    {
+      "id": "migraine",
+      "name": "Migraine",
+      "category": "neurological",
+      "keywords": ["migraine", "headache severe", "one side headache", "aura", "throbbing headache"],
+      "symptoms": ["Severe throbbing headache (usually one side)", "Nausea/vomiting", "Sensitivity to light and sound", "Visual aura", "Dizziness", "Can last hours to days"],
+      "causes": ["Stress", "Hormonal changes", "Certain foods (cheese, chocolate, wine)", "Sleep changes", "Weather changes", "Genetics"],
+      "prevention": ["Regular sleep schedule", "Stress management", "Identify food triggers", "Stay hydrated", "Regular exercise", "Limit screen time"],
+      "treatment": ["Triptans (sumatriptan)", "NSAIDs", "Rest in dark quiet room", "Cold compress", "Preventive medications if frequent", "Lifestyle modifications"],
+      "urgency": "LOW",
+      "related_tests": []
+    }
+  ],
+  "emergency_conditions": [
+    {
+      "condition": "Heart Attack",
+      "keywords": ["heart attack", "chest pain severe", "arm pain left", "jaw pain", "crushing chest"],
+      "immediate_action": "Call emergency (1122) immediately. Chew aspirin if available. Do not exert yourself. Sit or lie down.",
+      "urgency": "CRITICAL"
+    },
+    {
+      "condition": "Stroke",
+      "keywords": ["stroke", "face drooping", "arm weakness", "speech difficulty", "sudden numbness"],
+      "immediate_action": "Call emergency (1122). Use FAST test: Face drooping, Arm weakness, Speech difficulty, Time to call. Do NOT give food or water.",
+      "urgency": "CRITICAL"
+    },
+    {
+      "condition": "Severe Allergic Reaction (Anaphylaxis)",
+      "keywords": ["anaphylaxis", "severe allergy", "throat swelling", "cant breathe allergy", "epipen"],
+      "immediate_action": "Use EpiPen if available. Call emergency (1122). Lie down with legs elevated. Do not leave the person alone.",
+      "urgency": "CRITICAL"
+    },
+    {
+      "condition": "Severe Bleeding",
+      "keywords": ["severe bleeding", "heavy bleeding", "blood loss", "hemorrhage", "uncontrollable bleeding"],
+      "immediate_action": "Apply direct pressure with clean cloth. Elevate the wound above heart level. Call emergency (1122). Do NOT remove the cloth.",
+      "urgency": "CRITICAL"
+    },
+    {
+      "condition": "Diabetic Emergency",
+      "keywords": ["diabetic coma", "sugar very high", "sugar very low", "glucose 500", "unconscious diabetic"],
+      "immediate_action": "If conscious and low sugar: give sugar/juice. If unconscious: call emergency (1122). Do NOT give food to unconscious person.",
+      "urgency": "CRITICAL"
+    }
+  ]
+}
