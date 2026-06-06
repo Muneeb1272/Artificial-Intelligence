@@ -1,0 +1,9 @@
+fastapi==0.111.0
+uvicorn==0.30.1
+python-multipart==0.0.9
+Pillow==10.2.0
+python-dotenv==1.0.1
+pymupdf==1.24.4
+requests==2.32.3
+numpy>=1.26.0
+streamlit==1.29.0
